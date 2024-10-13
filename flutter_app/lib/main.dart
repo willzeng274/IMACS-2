@@ -1,5 +1,7 @@
+import 'package:flame/game.dart';
 import 'package:flutter/material.dart';
 import 'package:imacs/screens/home_screen.dart';
+import 'package:imacs/widgets/artificial_horizon.dart';
 
 void main() async {
   runApp(const App());
